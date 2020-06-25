@@ -6,7 +6,7 @@ import { NavBarComponent } from './nav-bar/nav-bar.component';
 import { FooterComponent } from './footer/footer.component';
 import { ArticleListComponent } from './article-list/article-list.component';
 import { AppRoutingModule } from './app-routing.module';
-import { CreateblogComponent } from './createblog/createblog.component';
+import { CreateBlogComponent } from './create-blog/create-blog.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +14,7 @@ import { CreateblogComponent } from './createblog/createblog.component';
     NavBarComponent,
     FooterComponent,
     ArticleListComponent,
-    CreateblogComponent
+    CreateBlogComponent,
   ],
   imports: [
     BrowserModule,
