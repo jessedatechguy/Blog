@@ -1,0 +1,15 @@
+.card {
+    border: 1px solid;
+    border-radius: 4px;
+    margin-top: 15px;
+}
+
+.card-body {
+    display: flex;
+    padding: 15px;
+}
+
+h3 {
+    font-size: 32px;
+}
+
