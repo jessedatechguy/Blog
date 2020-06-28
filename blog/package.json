@@ -21,6 +21,7 @@
     "@angular/platform-browser-dynamic": "~9.1.11",
     "@angular/router": "~9.1.11",
     "express": "^4.17.1",
+    "mongodb": "^3.5.9",
     "mongoose": "^5.9.19",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
